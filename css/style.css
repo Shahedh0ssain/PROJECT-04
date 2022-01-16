@@ -1,0 +1,15 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.panda-bay-btn{
+
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    cursor: pointer;
+}
+.panda-text-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
